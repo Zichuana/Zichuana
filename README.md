@@ -9,7 +9,7 @@
 
 # Contact me! 📧
 - You can contact me through my education email.  
-zichuana@stu.ahtcm.edu.cn
+<center>zichuana@stu.ahtcm.edu.cn</center>
 
 <div align=center>
 <img src="https://github.com/Zichuana/Zichuana/blob/main/2.gif" width="XXX" height="XXX" />
